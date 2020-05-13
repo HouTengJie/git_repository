@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("12345");
         //github(其他同事)端的更新
         System.out.println("678910");
+        //修改1.0分支的bug
     }
 }
